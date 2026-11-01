@@ -7,7 +7,7 @@
 
 ### 資料
 
-- [A4 Summary（PDF）](02_Rebooting_the_Ocean_Ecosystem_JP_Summary.pdf)
+- [A4 Summary（PDF）](02_Rebooting_the_Ocean_Ecosystem_JP_Rev1.1_A4_Summary.pdf)
 - [Full Proposal（PDF）](02_Rebooting_the_Ocean_Ecosystem_JP_Rev1.1.pdf)
 
 ### 海洋マイクロプラスチック除去と海洋アルカリ度向上を統合したコンセプト提案
